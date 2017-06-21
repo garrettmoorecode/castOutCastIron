@@ -1,0 +1,32 @@
+.wrap {
+    padding: 2rem;
+    width:  100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.header {
+  background-color: #1aee9d;
+  background-image: url('../img/castiron.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #1aee9d;
+  text-align: center;
+}
+
+nav {
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+   display: block;
+}
